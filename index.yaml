@@ -3,6 +3,16 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-20T08:39:59.348370698Z"
+    description: A Helm chart for Kubernetes
+    digest: d0b34345d9beb9496af30a277d83cae18b1c4e198649d4d0d632bd7587554a38
+    name: myapp
+    type: application
+    urls:
+    - https://github.com/zyc1006/chart/releases/download/myapp-0.3.0/myapp-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-20T07:11:03.052340777Z"
     description: A Helm chart for Kubernetes
     digest: 4e6d2fe8bd61ec0b7f29c13f4338eeabc5790732b80ace711388e23e34bfd4aa
