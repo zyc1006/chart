@@ -24,6 +24,16 @@ entries:
   test-app:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-21T08:34:36.039356207Z"
+    description: A Helm chart for Kubernetes
+    digest: e337c662e13f055f969df15377c4d44b5bda05ed23906668f7e48ae4eb934845
+    name: test-app
+    type: application
+    urls:
+    - https://github.com/zyc1006/chart/releases/download/test-app-0.2.0/test-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-21T07:38:46.995676141Z"
     description: A Helm chart for Kubernetes
     digest: aa1517f623e4642e0d8e1895b2012df661ec3f189d0d484006ea969a490db0ee
